@@ -23,3 +23,5 @@ if CONTA_NORMAL or CONTA_UNIVERSITARIA:
             print("Saldo insuficiente")
 else:
     print("Sistema não te reconheceu, entre em contato com seu gerente")
+
+# oi
