@@ -24,4 +24,4 @@ if CONTA_NORMAL or CONTA_UNIVERSITARIA:
 else:
     print("Sistema não te reconheceu, entre em contato com seu gerente")
 
-# oi
+#uoihaegwhoapugw
