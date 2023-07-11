@@ -22,3 +22,6 @@ texto2 = "Python"
 print(texto2.center(16, '#'))
 
 print(".".join(texto2))
+
+for i in texto2:
+    print(i, end="-")
