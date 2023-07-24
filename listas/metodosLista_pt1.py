@@ -14,10 +14,10 @@ l2 = lista.copy()
 print(l2)
 
 # COUNT
-cores = ["azul", "verde", "roxo"]
+cores = ["azul", "verde", "roxo", "azul"]
 
-# retorna 0 (conta a posição do elemento pedido)
-print(cores.count("vermelho"))
+# conta quantos elementos (que você pedir) têm na lista
+print(cores.count("azul"))
 # ------------------------------------------------
 
 # EXTEND
